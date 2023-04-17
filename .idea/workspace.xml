@@ -44,7 +44,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.bai1.Test">
+  <component name="RunManager" selected="Application.bai2.Test">
     <configuration name="AccountExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex2.AccountExample" />
       <module name="String" />
@@ -71,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex1.Test" />
+    <configuration name="bai1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai1.Test" />
       <module name="String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex1.*" />
+          <option name="PATTERN" value="bai1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bai1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai1.Test" />
+    <configuration name="bai2.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai2.Test" />
       <module name="String" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bai1.*" />
+          <option name="PATTERN" value="bai2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bai2.Test" />
         <item itemvalue="Application.bai1.Test" />
         <item itemvalue="Application.CrawlSongExample" />
         <item itemvalue="Application.ex2.Test" />
         <item itemvalue="Application.AccountExample" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681701035538</updated>
-      <workItem from="1681701036986" duration="7968000" />
+      <workItem from="1681701036986" duration="8602000" />
     </task>
     <servers />
   </component>
